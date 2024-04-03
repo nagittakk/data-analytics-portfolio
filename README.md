@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Nagitta 👋🏾 👩🏾‍💻
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](https://github.com/nagittakk/Data-Science-Portfolio/blob/main/Nagitta%20Kasirye-Koikanyang_banner.png)
 
 I'm a passionate data scientist dedicated to leveraging the power of data to solve real-world challenges. With expertise in data analysis and machine learning, I thrive on transforming complex datasets into actionable insights. I'm driven by a curiosity for exploring new technologies and methodologies to drive impactful outcomes. My goal is to drive positive change through data-driven problem-solving.
 
