@@ -3,7 +3,11 @@
 
 I'm a passionate data scientist dedicated to leveraging the power of data to solve real-world challenges. With expertise in data analysis and machine learning, I thrive on transforming complex datasets into actionable insights. I'm driven by a curiosity for exploring new technologies and methodologies to drive impactful outcomes. My goal is to drive positive change through data-driven problem-solving.
 
-Skills: PYTHON / DATA ANALYSIS / MACHINE LEARNING
+Skills and Expericne
+* 🐍 Python Programming
+* 📉 Data Analysis
+* 🤖 Machine Learning
+*  📋 Project Managment
 
 - 📫 How to reach me: nagittak@gmail.com 
 
