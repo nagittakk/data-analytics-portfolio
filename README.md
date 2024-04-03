@@ -1,6 +1,6 @@
 # Data Scientist
 
-Experienced process engineer with data science certification. Skilled in Python, machine learning, and data visualization. Transitioning to Data Scientist role, bringing adaptability and problem-solving skills. Eager to drive innovation in data-driven environments.
+Experienced process engineer with data science certification. Proficient in Python, machine learning, and data visualization. Pivoting towards a Data Scientist role, leveraging adaptability and problem-solving skills. Excited to contribute to innovation in data-driven environments.
 
 ### Work Experience
 
@@ -61,7 +61,7 @@ V: Natural Language Processing
 
 - Data Analytics & Exploration (3):
 
-I: Databases 
+I: Databases
         
 II: Data Analysis 
         
