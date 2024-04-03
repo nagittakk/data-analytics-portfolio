@@ -26,13 +26,11 @@ Impala Platinum, Chemical Engineer (June 2021 - June 2023)
   - Deployed data-centric approaches, including data analysis and visualization, during new refining unit 
     commissioning. Achieved a remarkable 15% increase in production efficiency within six months.
 
-  - Key player in annual process maintenance, conducting detailed stock-taking of primary products using data-driven       methodologies. Provided crucial support in estimating quantities for year-end financial reporting, leading to          improved precision in financial assessments and inventory valuations.
+  - Key player in annual process maintenance, conducting detailed stock-taking of primary products using data-driven methodologies. Provided crucial support in estimating quantities for year-end financial reporting, leading toimproved precision in financial assessments and inventory valuations.
 
 Impala Platinum, Chemical Engineering Intern (January 2021 - May 2021)
 
-  - Contributed to chemical/process engineering project management by assisting in activities including data 
-    collection, analysis, upfront test work, and research. Gained valuable insights into project management 
-    fundamentals while supporting the project team.
+  - Contributed to chemical/process engineering project management by assisting in activities including data collection, analysis, upfront test work, and research. Gained valuable insights into project management fundamentals while supporting the project team.
 
 ### Education
 
@@ -51,21 +49,21 @@ Hyperion Dev Capstone Projects:
 
 - Python for Data Science (5):
 
-       I: Financial calculator - Variables and Control Structures
-       This programe enables users to effortlessly compute home loan bond repayments or determine investment returns, with options for simple or compound interest. This project highlights variable management and control structures, offering a practical tool for financial planning and analysis.
+I: Financial calculator - Variables and Control Structures
+This programe enables users to effortlessly compute home loan bond repayments or determine investment returns, with options for simple or compound interest. This project highlights variable management and control structures, offering a practical tool for financial planning and analysis.
        
-       II: Task management program - Files
-       This porgram is tailored for small businesses, facilitating efficient assignment and tracking of team responsibilities. This project underscores the utilization of .txt files for seamless storage and updating of task-related information directly on the computer, ensuring streamlined team coordination and productivity.
+II: Task management program - Files
+This porgram is tailored for small businesses, facilitating efficient assignment and tracking of team responsibilities. This project underscores the utilization of .txt files for seamless storage and updating of task-related information directly on the computer, ensuring streamlined team coordination and productivity.
        
-       III: Task management program (modified) - Functions
-       Enhanced task management project integrating Python functions to enhance code modularity.
+III: Task management program (modified) - Functions
+Enhanced task management project integrating Python functions to enhance code modularity.
        
-       IV: Inventory management program - Classes
-       This program for a shoe store, allows users to update and access inventory data seamlessly. This project leverages object-oriented programming principles, enabling efficient organization and manipulation of inventory items. The program streamlines inventory management with user-friendly interfaces, boosting operational efficiency
+IV: Inventory management program - Classes
+This program for a shoe store, allows users to update and access inventory data seamlessly. This project leverages object-oriented programming principles, enabling efficient organization and manipulation of inventory items. The program streamlines inventory management with user-friendly interfaces, boosting operational efficiency
        
-       V: Exercise and Research - NLP
-       Task 1 - Proposing an NLP model type that aligns with a provided task description.
-       Task 2 - A concise overview of innovative technology utilizing Natural Language Processing (NLP), along with an explanation of how the technology operates.
+V: Exercise and Research - NLP
+Task 1 - Proposing an NLP model type that aligns with a provided task description.
+Task 2 - A concise overview of innovative technology utilizing Natural Language Processing (NLP), along with an explanation of how the technology operates.
 
 - Data Analytics & Exploration (3):
 
