@@ -29,8 +29,8 @@ Data Analytics & Exploration (3):
         to save the results in either XML or JSON format, with the ability to customize the filename. This project aims to streamline database interactions and enhance data management capabilities for users.
         
         II: Data Analysis
-        Exploratory Data Analysis (EDA) on the 'movies' dataset. This analysis included generating visualizations, investigating various aspects of the dataset, and documenting findings. Through this project, 
-        insights into the movie dataset's characteristics, trends, and patterns were uncovered and explained in detail.
+        Exploratory Data Analysis (EDA) on the 'movies' and 'automobile' datasets. These analyses included generating visualizations, investigating various aspects of the datasets, and documenting findings.  
+        Through this project, insights into the 'movies' and 'automobile' datasets's characteristics, trends, and patterns were uncovered and explained in detail.
         
         III: Data Visualisation
         Exploratory Data Analysis (EDA) on the 'wine' dataset. This analysis includes generating visualizations, investigating various aspects of the dataset, and documenting findings. Through this project,   
