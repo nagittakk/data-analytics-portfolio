@@ -1,46 +1,8 @@
-# Data Scientist
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Experienced process engineer with data science certification. Proficient in Python, machine learning, and data visualization. Pivoting towards a Data Scientist role, leveraging adaptability and problem-solving skills. Excited to contribute to innovation in data-driven environments.
+#### Portfolio: Data Science projects.
 
-### Work Experience
-
-Impala Platinum, Senior Chemical Engineer -Level 1 (July 2023 - Present)
-
-  - Led plant process sampling project, collecting diverse data for machine learning model (digital twin). Achieved 
-    20% better process predictability and 15% production efficiency boost, optimizing operations.
-    
-  - Key role in commissioning greenfield projects, ensuring smooth integration with existing processes. Utilized 
-    thorough data analysis to set optimal operational parameters, leading to a 30% process optimization. Resulted in a 
-    significant 20% increase in production capacity.
-
-  - Directed a project focused on wastewater management, conducting initial testing and analyzing of wastewater data   
-    to guide decision-making in process design. The developed design enhanced the maintenance approach for effluent 
-    ponds, guaranteeing their optimal functionality and capacity.
-
-Impala Platinum, Chemical Engineer (June 2021 - June 2023)
-
-  - Received comprehensive training in process operations, gaining deep insights into complex processes and 
-    operational data trends. Applied technical expertise and data-driven decision-making to optimize production, 
-    maintain quality standards, and ensure operational security.
-
-  - Deployed data-centric approaches, including data analysis and visualization, during new refining unit 
-    commissioning. Achieved a remarkable 15% increase in production efficiency within six months.
-
-  - Key player in annual process maintenance, conducting detailed stock-taking of primary products using data-driven methodologies. Provided crucial support in estimating quantities for year-end financial reporting, leading toimproved precision in financial assessments and inventory valuations.
-
-Impala Platinum, Chemical Engineering Intern (January 2021 - May 2021)
-
-  - Contributed to chemical/process engineering project management by assisting in activities including data collection, analysis, upfront test work, and research. Gained valuable insights into project management fundamentals while supporting the project team.
-
-### Education
-
-Data Science Certification, HyperionDev (2024)
-
-Bachelor's of Engineering Honors in Environmental Engineering, University of Pretoria (2022)
-
-Bachelor's of Engineering in Chemical Engineering, University of Pretoria (2020)
-
-National Senior Cetificate, St Mary's Diocesan School for Girls (2013)
+My GitHub data science portfolio showcases a curated selection of projects that demonstrate my expertise in data analysis, machine learning, and data visualization. Each project is meticulously documented, providing insights into the problem tackled, the methodologies employed, and the insights derived. With a focus on real-world applications, the portfolio illustrates my proficiency in leveraging various programming languages, libraries, and tools such as Python, SQL, Pandas, Matplotlib, and Scikit-learn. Whether it's processing unclear image data, analyzing financial data, or exploring trends in the wine industry, my portfolio exhibits a diverse range of projects that highlight my ability to extract meaningful insights from complex datasets.
 
 
 ### Projects
