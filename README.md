@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am GitHub Readme Generator's creator](Nagitta Kasirye-Koikanyang.png)
 
 #### Portfolio: Data Science projects.
 
