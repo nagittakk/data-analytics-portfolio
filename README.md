@@ -14,9 +14,7 @@ My GitHub data science portfolio showcases a curated selection of projects that 
        
 [IV: Inventory Manager](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP4_inventory_manager.py)
        
-V: Natural Language Processing
-Part 1 [Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_1.pdf),
-Part 2 [Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_2.pdf)  
+V: Natural Language Processing ([Part 1](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_1.pdf), [Part 2](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_2.pdf))  
 
 - Data Analytics & Exploration (3):
 
@@ -24,9 +22,7 @@ Part 2 [Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Pyth
         
 II: Exploratory Data Analysis
 
-Part 1 ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies.ipynb), [Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies%20EDA%20Task%20Doc.pdf))
-
-Part 2 ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb), [Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile%20EDA%20Task%20Doc.pdf))
+([Part 1 Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies.ipynb), [Part 1 Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies%20EDA%20Task%20Doc.pdf). [Part 2 Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb), [Part 2 Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile%20EDA%20Task%20Doc.pdf))
 
 III: Data Visualisation ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine.ipynb), [Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine%20EDA%20Task%20Doc.pdf))  
 
