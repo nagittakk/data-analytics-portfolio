@@ -8,13 +8,15 @@ My GitHub data science portfolio showcases a curated selection of projects that 
 
 [I: Financial Calculator](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP1_Finance_Calc.py)
        
-II: Task Manager
+[II: Task Manager](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP2_Task_manager.py)
        
-III: Task Manager (modified) 
+[III: Task Manager - modified](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP3_Task_manager_mod.py.py)
        
-IV: Inventory Manager
+[IV: Inventory Manager](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP4_inventory_manager.py)
        
 V: Natural Language Processing
+[Part 1](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_1.pdf)
+[Part 2](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_2.pdf)
 
 - Data Analytics & Exploration (3):
 
