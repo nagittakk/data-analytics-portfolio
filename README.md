@@ -30,8 +30,7 @@ III: Data Visualisation ([Code](https://github.com/nagittakk/data-science-portfo
          
 [II: Unsupervised Machine Learning - Clustering](https://github.com/nagittakk/data-science-portfolio/blob/main/Machine%20Learning%20%26%20AI/CP2_unsupervised_machine_learning.ipynb)  
 
-
-[Link to my Hyperion Dev portfolio to view my average grade and class ranking](https://www.hyperiondev.com/portfolio/NK23110009394/)
+🔗 [Link to my Hyperion Dev portfolio to view my average grade and class ranking](https://www.hyperiondev.com/portfolio/NK23110009394/)
 
 ### Thank you for viewing my portfolio!
 
