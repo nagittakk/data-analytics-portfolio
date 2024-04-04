@@ -1,7 +1,8 @@
 '''
 Finance Calculator
 
-This program enables users to effortlessly compute home loan bond repayments or determine investment returns, with options for simple or compound interest. This project highlights variable management and          control structures, offering a practical tool for financial planning and analysis Variables and Control Structures.'''
+This program enables users to effortlessly compute home loan bond repayments or determine investment returns, with options for simple or compound interest.
+This project highlights variable management and control structures, offering a practical tool for financial planning and analysis variables and control structures.'''
 
 # import math module to utilise respictive functions
 import math
