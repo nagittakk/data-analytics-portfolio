@@ -15,16 +15,18 @@ My GitHub data science portfolio showcases a curated selection of projects that 
 [IV: Inventory Manager](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP4_inventory_manager.py)
        
 V: Natural Language Processing
-[Part 1](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_1.pdf)
+[Part 1,](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_1.pdf)
 [Part 2](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_2.pdf)
 
 - Data Analytics & Exploration (3):
 
-I: Databases
+I: [Database Querying](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP1_database_querying.py)
         
-II: Data Analysis 
+II: Data Analysis
+[Part 1,](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies.ipynb)
+[Part 2](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb)
         
-III: Data Visualisation
+[III: Data Visualisation](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine.ipynb)
 
 - Machine Learning & AI (2):
 
