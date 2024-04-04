@@ -32,5 +32,7 @@ II: Unsupervised Machine Learning
 
 ### Thank you for viewing my portfolio!
 
+- 📫 How to reach me: nagittak@gmail.com
+
 #### Social Media
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nagittakk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nagittakasiryekoikanyang/)  
