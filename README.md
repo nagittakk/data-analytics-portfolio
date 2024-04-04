@@ -2,6 +2,7 @@
 
 My GitHub data science portfolio showcases a curated selection of projects that demonstrate my expertise in data analysis, machine learning, and data visualization. Each project is meticulously documented, providing insights into the problem tackled, the methodologies employed, and the insights derived. With a focus on real-world applications, the portfolio illustrates my proficiency in leveraging various programming languages, libraries, and tools such as Python, SQL, Pandas, Matplotlib, and Scikit-learn. Whether it's processing unclear image data, analyzing financial data, or exploring trends in the wine industry, my portfolio exhibits a diverse range of projects that highlight my ability to extract meaningful insights from complex datasets.
 
+
 ### Hyperion Dev Capstone Projects:
 
 - Python for Data Science (5):
@@ -19,6 +20,7 @@ Part 1 [Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Pyth
 Part 2 [Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP5_NLP_2.pdf)
 
 
+
 - Data Analytics & Exploration (3):
 
 I: Database Querying [Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP1_database_querying.py)
@@ -29,6 +31,7 @@ Part 1 ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Dat
 Part 2 ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb), [Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile%20EDA%20Task%20Doc.pdf))
 
 III: Data Visualisation ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine.ipynb), [Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine%20EDA%20Task%20Doc.pdf))
+
 
 
 - Machine Learning & AI (2):
