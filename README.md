@@ -6,7 +6,7 @@ My GitHub data science portfolio showcases a curated selection of projects that 
 
 - Python for Data Science (5):
 
-I: Financial Calculator 
+I: Financial Calculator
        
 II: Task Manager
        
