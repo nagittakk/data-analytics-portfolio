@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/nagittakk/data-science-portfolio/blob/main/Nagitta%20Kasirye-Koikanyang.png))
+![I am GitHub Readme Generator's creator](https://github.com/nagittakk/data-science-portfolio/blob/main/Nagitta%20Kasirye-Koikanyang.png)
 
 #### Portfolio: Data Science projects.
 
