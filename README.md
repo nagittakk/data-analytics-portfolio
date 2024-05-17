@@ -1,10 +1,10 @@
 #### Portfolio: Data Science projects.
 
-My GitHub data science portfolio showcases a curated selection of projects that demonstrate my expertise in data analysis, machine learning, and data visualization. Each project is meticulously documented, providing insights into the problem tackled, the methodologies employed, and the insights derived. With a focus on real-world applications, the portfolio illustrates my proficiency in leveraging various programming languages, libraries, and tools such as Python, SQL, Pandas, Matplotlib, and Scikit-learn. Whether it's processing unclear image data, analyzing financial data, or exploring trends in the wine industry, my portfolio exhibits a diverse range of projects that highlight my ability to extract meaningful insights from complex datasets.  
+My GitHub data science portfolio showcases diverse projects, highlighting expertise in data analysis, machine learning, and data visualization. Each project is meticulously documented, demonstrating proficiency in Python, SQL, Pandas, Matplotlib, and Scikit-learn. From clarifying image data to analyzing finance or exploring wine trends, the portfolio presents concise insights derived from complex datasets.  
 
 ### Hyperion Dev Capstone Projects:  
 
-- Python for Data Science (5):
+- Software Devlopmente (5):
 
 [I: Financial Calculator](https://github.com/nagittakk/data-science-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP1_Finance_Calc.py)
        
