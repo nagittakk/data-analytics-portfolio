@@ -26,9 +26,9 @@ III: Exploratory Data Analysis and Data Visualisation on the 'Wine' Data Set ([C
 
 - Machine Learning & AI (2):
 
-[I: Supervised Machine Learning - Image Processing](https://github.com/nagittakk/data-science-portfolio/blob/main/Machine%20Learning%20%26%20AI/CP1_supervised_machine_learning.ipynb)
+[I: Random Forest Regression for Image Processing](https://github.com/nagittakk/data-science-portfolio/blob/main/Machine%20Learning%20%26%20AI/CP1_supervised_machine_learning.ipynb)
          
-[II: Unsupervised Machine Learning - Clustering](https://github.com/nagittakk/data-science-portfolio/blob/main/Machine%20Learning%20%26%20AI/CP2_unsupervised_machine_learning.ipynb)  
+[II: Exploring Structure and Patterns in the USArrests Dataset Using Unsupervised Machine Learning Techniquesg](https://github.com/nagittakk/data-science-portfolio/blob/main/Machine%20Learning%20%26%20AI/CP2_unsupervised_machine_learning.ipynb)  
 
 🔗 [Link to my Hyperion Dev portfolio to view my grades, course average and class ranking](https://www.hyperiondev.com/portfolio/NK23110009394/)
 
