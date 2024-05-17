@@ -18,11 +18,11 @@ My GitHub data science portfolio showcases a curated selection of projects that 
 
 [I: Database Managment Program](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP1_database_querying.py)
         
-II (Part 1): Exploratory Data Analysis on the 'Movies' Data Set ([Code ](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies.ipynb)[- Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies%20EDA%20Task%20Doc.pdf))
+II (Part 1): Exploratory Data Analysis on the 'Movies' Dataset ([Code ](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies.ipynb)[- Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies%20EDA%20Task%20Doc.pdf))
 
-II (Part 2): Exploratory Data Analysis on the 'Automobile' Data Set ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb)[ - Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile%20EDA%20Task%20Doc.pdf))
+II (Part 2): Exploratory Data Analysis on the 'Automobile' Dataset ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb)[ - Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile%20EDA%20Task%20Doc.pdf))
 
-III: Exploratory Data Analysis and Data Visualisation on the 'Wine' Data Set ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine.ipynb) [ - Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine%20EDA%20Task%20Doc.pdf))  
+III: Exploratory Data Analysis and Data Visualisation on the 'Wine' Dataset ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine.ipynb) [ - Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine%20EDA%20Task%20Doc.pdf))  
 
 - Machine Learning & AI (2):
 
