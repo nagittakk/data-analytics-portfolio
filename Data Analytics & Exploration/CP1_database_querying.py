@@ -1,5 +1,5 @@
 '''
-Database Querying
+Database Managment Program
 
 A user-friendly program for querying a HyperionDev-based database with the flexibility to select specific fields for display. 
 After each query, users are prompted to save the results in either XML or JSON format, with the ability to customize the filename. 
