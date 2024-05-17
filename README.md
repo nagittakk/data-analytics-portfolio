@@ -18,9 +18,9 @@ My GitHub data science portfolio showcases a curated selection of projects that 
 
 [I: Database Managment Program](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP1_database_querying.py)
         
-II: Exploratory Data Analysis of the 'Movies' Data Set([Code ](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies.ipynb)[- Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies%20EDA%20Task%20Doc.pdf)
+II: Exploratory Data Analysis of the 'Movies' Data Set ([Code ](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies.ipynb)[- Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_1_movies%20EDA%20Task%20Doc.pdf)
 
-    Exploratory Data Analysis of the 'Automobile' Data Set - ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb)[- Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile%20EDA%20Task%20Doc.pdf))
+    Exploratory Data Analysis of the 'Automobile' Data Set ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile.ipynb)[- Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP2_2_automobile%20EDA%20Task%20Doc.pdf))
 
 III: Exploratory Data Analysis and Data Visualisation of the 'Wine' Data Set ([Code](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine.ipynb), [ - Report](https://github.com/nagittakk/data-science-portfolio/blob/main/Data%20Analytics%20%26%20Exploration/CP3_wine%20EDA%20Task%20Doc.pdf))  
 
