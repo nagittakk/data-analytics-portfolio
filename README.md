@@ -1,10 +1,10 @@
-#### Portfolio: Data Analytics
+## Portfolio: Data Analytics
 
 This repository showcases my data analytics projects, demonstrating my proficiency in software development, particularly in Python. I have experience in both supervised and unsupervised machine learning, which I have applied to various data analysis and exploration tasks. My work includes database operations and management using SQL, as well as building ETL pipelines and data modelling with MySQL. Additionally, I excel in data visualisation and exploratory data analysis, transforming raw data into actionable insights through clear and engaging visual representations.  
 
-## Projects Overview  
+### Projects Overview  
 
-### Software Development (3 Projects)
+#### Software Development (3 Projects)
 - **[I: Financial Calculator](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Software%20Development/Finance_Calc.py)**  
   A tool for calculating home loan repayments or investment returns, featuring both simple and compound interest options.  
   **Technologies Used:** Python
@@ -17,7 +17,7 @@ This repository showcases my data analytics projects, demonstrating my proficien
   A program for managing shoe store inventory, utilising object-oriented programming for efficient data handling.  
   **Technologies Used:** Python (OOP)
 
-### Data Querying, Data Analysis & Exploration (4 Projects)
+#### Data Querying, Data Analysis & Exploration (4 Projects)
 - **[I: Database Management Program](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Software%20Development/Inventory_Manager.py)**  
   An intuitive software solution for querying a HyperionDev-based SQL database, with options to save results in XML or JSON formats.
   **Technologies Used:** Python, SQL (MySQL)
@@ -37,7 +37,7 @@ This repository showcases my data analytics projects, demonstrating my proficien
   **[Report](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Data%20Analysis%20and%20Exploration/wine_eda_doc.pdf)**  
   **Technologies Used:** Python 
 
-### Machine Learning & AI (2 Projects)
+#### Machine Learning & AI (2 Projects)
 - **[I: Random Forest Regression for Image Processing](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Machine%20Learning%20%26%20AI/random_forest_handwritten_digit_classification.ipynb)**  
   Implements Random Forest Regression on the MNIST dataset to classify handwritten digits.  
   **Technologies Used:** Python
