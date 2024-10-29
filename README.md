@@ -1,4 +1,4 @@
-## Portfolio: Data Analytics
+## Data Analytics Portfolio
 
 This repository showcases my data analytics projects, demonstrating my proficiency in software development, particularly in Python. I have experience in both supervised and unsupervised machine learning, which I have applied to various data analysis and exploration tasks. My work includes database operations and management using SQL, as well as building ETL pipelines and data modelling with MySQL and PostgreSQL. Additionally, I excel in data visualisation and exploratory data analysis, transforming raw data into actionable insights through clear and engaging visual representations.  
 
