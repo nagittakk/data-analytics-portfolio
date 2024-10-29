@@ -13,7 +13,7 @@ This repository showcases my data analytics projects, demonstrating my proficien
   Designed for businesses to assign and track team responsibilities efficiently using .txt files for storage.  
   **Skills:** Python · Software Development · ETL Pipelines
 
-- **[III: Inventory Manager]([https://github.com/nagittakk/data-analytics-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP4_inventory_manager.py](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Software%20Development/Inventory_Manager.py))**  
+- **[III: Inventory Manager]([https://github.com/nagittakk/data-analytics-portfolio/blob/main/Python%20for%20Data%20Science%20Projects/CP4_inventory_manager.py](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Software%20Development/Inventory_Manager.py)**  
   A program for managing shoe store inventory, utilising object-oriented programming for efficient data handling.  
   **Skills:** Python · Software Development · ETL Pipelines
 
