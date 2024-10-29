@@ -18,7 +18,7 @@ This repository showcases my data analytics projects, demonstrating my proficien
   **Skills:** Python · Software Development · ETL Pipelines
 
 #### Data Querying, Data Analysis & Exploration (5 Projects)
-- **[I: Database Management Program](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/database_query_export_tool.ipynb)**  
+- **[I: Database Query and Export Tool](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/database_query_export_tool.ipynb)**  
   An intuitive software solution for querying a HyperionDev-based SQL database, with options to save results in XML or JSON formats.
   **Skills:** Python · Software Development · XML · JSON · MySQL, ETL Pipelines
 
