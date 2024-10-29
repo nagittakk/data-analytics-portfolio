@@ -55,10 +55,8 @@ This repository showcases my data analytics projects, demonstrating my proficien
 
 ### Thank you for viewing my portfolio!
 
-📫 How to reach me: nagittak@gmail.com
+#### Let's connect
 
-#### Social Media
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/nagittakasiryekoikanyang/)  
+![linkedin_icon](https://www.linkedin.com/in/nagittakasiryekoikanyang)  
 
 
