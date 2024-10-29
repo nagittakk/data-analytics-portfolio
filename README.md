@@ -51,7 +51,7 @@ This repository showcases my data analytics projects, demonstrating my proficien
   **Skills:** Data Analysis · Data Visualization · Python · Unsupervised Learning · PCA · K-Nearest Neighbors · Hierarchical Clustering · Scikit-Learn · NumPy · Pandas 
  
 
-🔗 [Link to my Hyperion Dev portfolio to view my grades, course average and class ranking](https://www.hyperiondev.com/portfolio/NK23110009394/)
+🔗 [My Hyperion Dev portfolio to view my grades, course average and class ranking](https://www.hyperiondev.com/portfolio/NK23110009394/)
 
 #### Thank you for viewing my portfolio!
 
