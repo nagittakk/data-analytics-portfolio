@@ -57,6 +57,8 @@ This repository showcases my data analytics projects, demonstrating my proficien
 
 #### Let's connect
 
-![linkedin_icon](https://github.com/user-attachments/assets/ff464972-4ef7-4e52-9880-3b189aed57b5)(https://www.linkedin.com/in/nagittakasiryekoikanyang)  
+![linkedin_icon](https://github.com/user-attachments/assets/ff464972-4ef7-4e52-9880-3b189aed57b5)][1]
+
+[1]: https://www.linkedin.com/in/nagittakasiryekoikanyang  
 
 
