@@ -24,7 +24,7 @@ This repository showcases my data analytics projects, demonstrating my proficien
 
 - **[II: Web Scraping and Data Extraction Tool](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/web_scraping_data_extraction_tool_postgreSQL.ipynb)**
  A Jupyter Notebook-based web scraping tool that extracts and stores article data from a news website in a PostgreSQL database for efficient management and retrieval.
- **Skils:** Python · PostgreSQL · Selenium · Joblib · HTML Software Development, ETL Pipelines
+ **Skils:** Python · PostgreSQL · Selenium · Joblib · HTML · Software Development, ETL Pipelines
 
 - **[III: Exploratory Data Analysis on the 'Movies' Dataset](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/movies_eda_exploration.ipynb)**  
   Conducts visualisations and analyses to explore various aspects of the 'movies' dataset.  
