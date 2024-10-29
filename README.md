@@ -26,19 +26,19 @@ This repository showcases my data analytics projects, demonstrating my proficien
  A Jupyter Notebook-based web scraping tool that extracts and stores article data from a news website in a PostgreSQL database for efficient management and retrieval.
  **Skils:** Python · PostgreSQL · Selenium · Joblib · HTML Software Development, ETL Pipelines
 
-- **[III: Exploratory Data Analysis on the 'Movies' Dataset](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Data%20Analysis%20and%20Exploration/movies_eda_exploration.ipynb)**  
+- **[III: Exploratory Data Analysis on the 'Movies' Dataset](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/movies_eda_exploration.ipynb)**  
   Conducts visualisations and analyses to explore various aspects of the 'movies' dataset.  
-  **[Report](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Data%20Analysis%20and%20Exploration/movies_eda_doc.pdf)**  
+  **[Report](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/movies_eda_doc.pdf)**  
   **Skills:** Data Analysis · Data Visualization · Jupyter · Python · Seaborn · NumPy · Matplotlib · Pandas  
 
-- **[IV: Exploratory Data Analysis on the 'Automobile' Dataset](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Data%20Analysis%20and%20Exploration/automobile_eda_exploration.ipynb)**  
+- **[IV: Exploratory Data Analysis on the 'Automobile' Dataset](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/automobile_eda_exploration.ipynb)**  
   An analysis focused on the 'automobile' dataset, generating insights through visualisation.  
-  **[Report](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Data%20Analysis%20and%20Exploration/automobile_eda_doc.pdf)**  
+  **[Report](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/automobile_eda_doc.pdf)**  
   **Skills:** Data Analysis · Data Visualization · Python · Jupyter · Pandas · NumPy · Seaborn · Matplotlib 
 
-- **[V: Exploratory Data Analysis on the 'Wine' Dataset](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Data%20Analysis%20and%20Exploration/wine_eda_exploration.ipynb)**  
+- **[V: Exploratory Data Analysis on the 'Wine' Dataset](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/wine_eda_exploration.ipynb)**  
   A comprehensive exploration of the 'wine' dataset, focusing on visualisation and insights.  
-  **[Report](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Data%20Analysis%20and%20Exploration/wine_eda_doc.pdf)**  
+  **[Report](https://github.com/nagittakk/data-analytics-portfolio/blob/main/Database%20Querying%2C%20Data%20Analysis%20%26%20Exploration/wine_eda_doc.pdf)**  
   **Skills:** Data Analysis · Data Visualization · Python · Pandas · NumPy · Seaborn · JSON 
 
 #### Machine Learning & AI (2 Projects)
