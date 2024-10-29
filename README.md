@@ -53,12 +53,13 @@ This repository showcases my data analytics projects, demonstrating my proficien
 
 🔗 [Link to my Hyperion Dev portfolio to view my grades, course average and class ranking](https://www.hyperiondev.com/portfolio/NK23110009394/)
 
-### Thank you for viewing my portfolio!
+#### Thank you for viewing my portfolio!
 
-#### Let's connect
+#### Let's connect:
 
-![linkedin_icon](https://github.com/user-attachments/assets/ff464972-4ef7-4e52-9880-3b189aed57b5)][1]
+<img src='https://github.com/user-attachments/assets/ff464972-4ef7-4e52-9880-3b189aed57b5' alt='linkedin' height='40'>
 
-[1]: https://www.linkedin.com/in/nagittakasiryekoikanyang  
+
+ 
 
 
